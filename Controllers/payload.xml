@@ -1,0 +1,17 @@
+<cXML>
+    <Credentials>
+        <UserId>{{username}}</UserId>
+        <Password>{{password}}</Password>
+        <CustomerID>{{customer_id}}</CustomerID>
+        <PartsList>
+            <Part>
+                <PartNumber>{{partnumber1}}</PartNumber>
+                <PartQuantity>1</PartQuantity>
+            </Part>
+            <Part>
+                <PartNumber>{{partnumber2}}</PartNumber>
+                <PartQuantity>3</PartQuantity>
+            </Part>
+        </PartsList>
+    </Credentials>
+</cXML>
